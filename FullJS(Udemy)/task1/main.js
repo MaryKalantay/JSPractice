@@ -26,3 +26,7 @@ console.log(appData);
 let result = document.getElementById('result');
 result.innerHTML = "You day budget: " + money/30 + " uh";
 
+
+
+
+
